@@ -1,8 +1,5 @@
 # 🌐 Internet Speed Twitter Bot
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Speedtest_logo.png" alt="speedtest-logo" width="150"/>  
-<img src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="twitter-logo" width="100"/>
-
 A Python script that checks your internet speed using **Speedtest.net** and tweets a complaint to your Internet Service Provider (ISP) if the speed is slower than promised.
 
 ---
